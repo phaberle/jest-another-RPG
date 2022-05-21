@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Role Playing Game CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phaberle/jest-another-RPG.git"
+  },
+  "keywords": [
+    "RPG"
+  ],
+  "author": "Paul Haberle <paulshaberle@gmail.com> (https://github.com/phaberle?tab=repositories)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phaberle/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/phaberle/jest-another-RPG#readme"
+}
